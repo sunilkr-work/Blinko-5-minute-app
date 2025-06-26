@@ -1,0 +1,6 @@
+@Blinko_5_minute_HostAddress = http://localhost:5258
+
+GET {{Blinko_5_minute_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
