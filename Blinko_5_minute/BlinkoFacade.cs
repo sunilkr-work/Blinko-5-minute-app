@@ -16,8 +16,8 @@ namespace Blinko_5_minute
     }
 
 
-    public class BlinkoFacade
+    public class BlinkoFacade : IBlinkoFacade
     {
-
+       
     }
 }
